@@ -10,7 +10,7 @@ import Items from './components/items'
 import Offer from './components/Offer'
 import Progresser from './components/Progresser'
 import Reservation from './components/Reservation'
-import Product from './components/Categroy'
+
 
 function App() {
   return (
